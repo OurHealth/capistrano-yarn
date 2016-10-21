@@ -8,16 +8,12 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'capistrano', '~> 3.1.0'
-gem 'capistrano-yarn'
+gem 'capistrano-yarn', git: 'https://github.com/OurHealth/capistrano-yarn.git'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install capistrano-yarn
 
 ## Usage
 
