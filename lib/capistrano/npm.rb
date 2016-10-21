@@ -1,1 +1,1 @@
-load File.expand_path('../tasks/npm.rake', __FILE__)
+load File.expand_path('../tasks/yarn.rake', __FILE__)
